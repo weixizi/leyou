@@ -44,4 +44,5 @@ public class PageResult<T> {
     public void setTotalPage(Long totalPage) {
         this.totalPage = totalPage;
     }
+
 }
